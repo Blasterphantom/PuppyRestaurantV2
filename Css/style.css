@@ -640,7 +640,6 @@
     padding-top: 3.5rem;
     color: #5F002B;
     font-family: Montauk-Regular;
-    padding-right: 5rem;
 }
 
 .companyImage {
@@ -649,7 +648,7 @@
 }
 
 .companyRow {
-    padding-right: 1.5rem;
+    padding-right: 0.5rem;
 }
 
 .streetRow {
