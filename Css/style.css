@@ -15,12 +15,46 @@
 }
 .nav-link{
     color: #5F002B;
+    font-family: 'Fugaz One', cursive;
+}
+.AO{
+    padding-left: 6rem;
+}
+.GA{
+    padding-left: 4rem;
+}
+.AG{
+    background-color: white;
+    color: #5F002B;
+    font-family: 'Fugaz One', cursive; 
+    overflow: scroll;  
+    height: 300px;
+    
+}
+.PT{
+   padding-top: 1rem;
+}
+.ABD{
+    padding-right: 8.5rem;
+}
+.SG{
+    padding-left: 4rem;
+}
+.TK{
+    padding-left: 7rem;
 }
 .LG{
     padding-top: 1rem;
 }
 .AM{
     padding-top: 2rem;
+    padding-right: 1rem;
+}
+.LK{
+    color: #5F002B;
+    font-family:  Montauk-Regular;
+
+
 }
 .FS {
     font-size: 14.5px;
@@ -63,6 +97,11 @@
     color: #5F002B;
     font-family: 'Fugaz One', cursive;
 }
+@media screen and (max-width: 1024px)  {
+   .BGD{
+    margin-bottom: 2%;
+   }
+  }
 @font-face {
     font-family: Montauk-Regular;
     src: url(../fonts/Montauk-Regular.otf);
@@ -514,6 +553,7 @@
         padding-bottom: 50px;
     }
 }
+
 
 /* LerissasPage */
 
