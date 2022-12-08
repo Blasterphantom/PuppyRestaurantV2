@@ -514,3 +514,104 @@
         padding-bottom: 50px;
     }
 }
+
+/* LerissasPage */
+
+.backgroundPic {
+    background-image: url(../asset/bgtexture.jpg);
+    padding: 0;
+}
+
+/* navbar */
+
+.nav-link {
+    margin: 1rem;
+    color: #5F002B;
+    font-family: 'Fugaz One';
+}
+
+.navImage {
+    margin-left: 6rem;
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.navbar-nav {
+    margin-right: 4rem;
+    margin-bottom: 1rem;
+}
+
+.navHamburger {
+    color: #5F002B;
+}
+/* image */
+
+.homeHero {
+    --bs-gutter-x: 0;
+}
+
+/* image and card */
+
+.muzzleContainer {
+    padding-top: 5rem;
+}
+
+.muzzleRow {
+    --bs-gutter-x: 0;
+}
+
+.singleImage {
+    max-width: 33.5rem;
+    min-height: 24rem;
+}
+
+.muzzleCard {
+    border-radius: 0%;
+    min-height: 24rem;
+    margin-left: 0.5rem;
+}
+
+.muzzlesGrill {
+    color: #5F002B;
+    font-family: 'Fugaz One';
+}
+
+.muzzlesInfo {
+    color: #5F002B;
+    font-family: 'Montauk-Regular';
+    font-size: medium;
+}
+
+@media (max-width: 768px) {
+    .singleImage {
+        display: none;
+    }
+}
+
+/* footer */
+
+.streetCol {
+    padding-top: 4rem;
+    color: #5F002B;
+    font-family: Montauk-Regular;
+}
+
+.companyCol {
+    padding-top: 3.5rem;
+    color: #5F002B;
+    font-family: Montauk-Regular;
+    padding-right: 5rem;
+}
+
+.companyImage {
+    max-width: 6rem;
+    min-height: 1rem;
+}
+
+.companyRow {
+    padding-right: 1.5rem;
+}
+
+.streetRow {
+    padding-left: 0.1rem;
+} 
